@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Freelance Developer | Full Stack & Data Projects | Building Practical Solutions</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding gif" />
 </p>
 
 ---
