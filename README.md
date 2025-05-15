@@ -56,7 +56,7 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://stephan.in" target="_blank">🌐 Website</a> • 
+  <a href="https://www.novawebdesignz.com" target="_blank">🌐 Website</a> • 
   <a href="https://linkedin.com/in/stephantech" target="_blank">LinkedIn</a> • 
-  <a href="https://twitter.com/" target="_blank">Twitter</a>
+  <a href="https://dribbble.com/stephanbegins" target="_blank">Dribble</a>
 </p>
