@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Freelance Developer | Full Stack & Data Projects | Building Practical Solutions</h3>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/yourgithubid?v=4" width="150" style="border-radius: 50%" />
+  <img src="https://avatars.githubusercontent.com/u/NovaWebDesignz?v=4" width="150" style="border-radius: 50%" />
 </p>
 
 ---
@@ -11,7 +11,7 @@
 - 🎯 Focused on clean UI, fast delivery, and real-world results.
 - 🌍 Based in [Your Location] | Working worldwide via Upwork, Fiverr & direct clients
 - 🌱 Currently learning: DevOps + AI integrations
-- 📫 Reach me: [your.email@example.com](mailto:novawebdesginz@gmail.com) | [stephan.in](https://stephan.in)
+- 📫 Reach me: [novawebdesignz@gmail.com](mailto:novawebdesginz@gmail.com) | [stephan.in](https://stephan.in)
 
 ---
 
