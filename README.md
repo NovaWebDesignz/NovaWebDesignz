@@ -2,14 +2,14 @@
 <h3 align="center">🚀 Freelance Developer | Full Stack & Data Projects | Building Practical Solutions</h3>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/NovaWebDesignz?v=4" width="150" style="border-radius: 50%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
 </p>
 
 ---
 
 - 💼 I build full-stack websites, automation tools, and dashboards for small businesses & startups.
 - 🎯 Focused on clean UI, fast delivery, and real-world results.
-- 🌍 Based in [Your Location] | Working worldwide via Upwork, Fiverr & direct clients
+- 🌍 Based in Chennai, India | Working worldwide via Upwork, Fiverr & direct clients
 - 🌱 Currently learning: DevOps + AI integrations
 - 📫 Reach me: [novawebdesignz@gmail.com](mailto:novawebdesginz@gmail.com) | [stephan.in](https://stephan.in)
 
